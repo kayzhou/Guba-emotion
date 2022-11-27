@@ -1,6 +1,6 @@
 # Guba-emotion 
 
-## 基于ERNIE模型的股吧情绪多情绪分类器
+## 基于ERNIE模型的股吧多情绪分类器
 
 Please cite our project when you use it.
 
