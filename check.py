@@ -1,4 +1,4 @@
-from classify import pipe
+from Gubaemotion import pipe
 
 print(pipe.SequenceClassification(
     [
