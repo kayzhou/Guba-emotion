@@ -20,7 +20,7 @@ Authors: Xutong Yue, Zhenkun Zhou (Capital University of Economics and Business)
 
 - electra；
 
-- ERNIE。
+- ERNIE（最优）。
 
 
 
@@ -58,9 +58,9 @@ scikit-learn
 
 | 模型              | 四分类 | 五分类 |
 | :---------------- | :----: | :----: |
-| Bert_base_chinese | 56.40% | 57.10% |
-| Bert_base_bilstm  |  63%   | 54.31% |
 | Ernie_3.0_base    | 65.45% | 59.33% |
+| Bert_base_bilstm  |  63%   | 54.31% |
+| Bert_base_chinese | 56.40% | 57.10% |
 | Electra           | 61.66% | 55.16% |
 | Xlm_roberta_base  | 62.08% | 58.20% |
 
