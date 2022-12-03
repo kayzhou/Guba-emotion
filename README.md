@@ -8,7 +8,7 @@ Authors: Xutong Yue, Zhenkun Zhou (Capital University of Economics and Business)
 
 作者：岳绪同，周振坤（首都经济贸易大学）
 
-简介：基于pytoch的股吧金融情绪文本分类器，深度学习模型包括
+简介：基于pytorch的股吧金融情绪文本分类器，深度学习模型包括
 
 - BiLSTM_attention；
 
